@@ -94,6 +94,8 @@ $max-width: 600px;
         box-sizing: border-box;
         background: var(--secondary);
         box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+        background-color: white;
+        border-radius: 10px;
         position: absolute;
         z-index: 9;
         margin-left: auto;
