@@ -47,11 +47,11 @@ $max-width: 600px;
         flex: 1 1 auto;
         margin: 0;
         padding: 0;
-        background-color: white;
         .searching {
             // spinner
             top: 0.4em;
             right: 2.25em;
+            background-color: white;
         }
     }
     h1 {
