@@ -55,7 +55,7 @@ $max-width: 600px;
     }
     h1 {
         font-size: var(--font-up-6);
-        color: white;
+        color: white !important;
         line-height: $line-height-medium;
         @include breakpoint(tablet) {
             font-size: var(--font-up-4);
@@ -65,7 +65,7 @@ $max-width: 600px;
     h1,
     p {
         text-align: center;
-        color: white;
+        color: white !important;
     }
     .search-icon {
         position: absolute;
