@@ -56,11 +56,11 @@ $max-width: 600px;
     h1 {
         font-size: var(--font-up-6);
         color: white !important;
+        text-shadow: 0 0 4px rgba(0, 0, 255, 0.5) !important;
         line-height: $line-height-medium;
         @include breakpoint(tablet) {
             font-size: var(--font-up-4);
         }
-        text-shadow: 0 0 4px rgba(0, 0, 255, 0.5) !important;
     }
     h1,
     p {
