@@ -119,6 +119,9 @@ $max-width: 600px;
     .search-link .d-icon {
         color: var(--primary-medium);
     }
+    .search-link:hover {
+        background-color: white;
+    }
     span.keyword {
         color: var(--primary);
     }
